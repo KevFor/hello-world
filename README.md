@@ -1,2 +1,2 @@
 # hello-world
-Optional description - testin my github skill
+Optional description - testing my github skill
